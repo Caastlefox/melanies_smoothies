@@ -1,6 +1,6 @@
 # requirements.txt
 snowflake
-python=3.8
+python=3.12.0
 snowflake-snowpark-python=
 streamlit=
 requests
